@@ -1,10 +1,10 @@
 {
-    "name": "pctco/BaiDuCloudSdk",
+    "name": "pctco/baidu-cloud-sdk",
     "type": "project",
     "keywords": ["BaiDu Cloud Sdk"],
     "homepage": "https://pctco.com",
     "license": "MIT",
-    "description": "Object BaiDuCloudSdk for major platforms!",
+    "description": "Object BaiDu Cloud Sdk for major platforms!",
     "authors": [
         {
             "name": "pctco",
@@ -15,15 +15,15 @@
     ],
     "support": {
         "email": "pctco.com@gmail.com",
-        "issues": "https://github.com/pctcocom/BaiDuCloudSdk/issues",
+        "issues": "https://github.com/pctcocom/baidu-cloud-sdk/issues",
         "forum": "https://pctco.com",
-        "source": "https://github.com/pctcocom/BaiDuCloudSdk"
+        "source": "https://github.com/pctcocom/baidu-cloud-sdk"
     },
     "require": {
         "php": ">=7.1"
     },
     "suggest": {
-        "ext-event": "Object BaiDuCloudSdk for major platforms!"
+        "ext-event": "Object BaiDu Cloud Sdk for major platforms!"
     },
     "autoload": {
         "psr-4": {
