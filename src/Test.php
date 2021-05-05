@@ -11,8 +11,8 @@ class Test{
       //新建BosClient
       $client = new BosClient([
          'credentials' => array(
-            'accessKeyId' => '38a266e2928f404693838981c68bf8bd',
-            'secretAccessKey' => '3d00f32caab94c12bbd97c7999f31f9e',
+            'accessKeyId' => '',
+            'secretAccessKey' => '',
             'sessionToken' => ''
         ),
         'endpoint' => 'http://bd.bcebos.com',
